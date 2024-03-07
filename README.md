@@ -1,3 +1,5 @@
-# IRIS-RECOGNITION
+# TASK3-CODSOFT
+ Iris Flower Classification model was built by me for my codsoft data science internship.To classify flower species based on sepal and petal dimensions, I employed machine learning methods such as Logistic Regression, SVM, and KNN.All these are classification algorithms, and they aid in the classification and prediction of  floral species as given.
+ Used machine learning (ML) to build a predictive model that can identify the species of iris flower based on measurements of the sepal and petal.
 
-Iris classification using Python refers to the process of building a machine learning model to classify iris flowers into different species based on their features. The Iris dataset is a popular dataset in the machine learning community, consisting of 150 samples of iris flowers, each belonging to one of three species: Setosa, Versicolor, or Virginica.
+ BY PONDEEPANRAJ
